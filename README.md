@@ -34,7 +34,7 @@ In ZelderSouls, you control a brave adventurer who must traverse through various
 * **Attack:** Use the **Space key** to perform regular attacks with your equipped weapon.
 * **Change Weapon:** Press **E** to cycle through the five available weapon types - **axe, lance, rapier, sai, and sword**. Choose the best weapon for each situation.
 * **Cast Magic:** Utilize powerful magic by pressing **Lctrl**. You have both **healing and flame magic** at your disposal.
-* **Change Magic:** To switch between** healing** and **flame** magic, press **Q**.
+* **Change Magic:** To switch between **healing** and **flame** magic, press **Q**.
 
 # Progression
 * **Collect EXP**: Defeat enemies to earn experience points (EXP). The more foes you vanquish, the more EXP you'll gain.
